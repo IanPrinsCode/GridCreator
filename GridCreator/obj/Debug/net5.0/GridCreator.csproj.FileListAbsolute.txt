@@ -1,0 +1,16 @@
+C:\Users\ian.prins\source\repos\GridCreator\GridCreator\bin\Debug\net5.0\GridCreator.exe
+C:\Users\ian.prins\source\repos\GridCreator\GridCreator\bin\Debug\net5.0\GridCreator.deps.json
+C:\Users\ian.prins\source\repos\GridCreator\GridCreator\bin\Debug\net5.0\GridCreator.runtimeconfig.json
+C:\Users\ian.prins\source\repos\GridCreator\GridCreator\bin\Debug\net5.0\GridCreator.runtimeconfig.dev.json
+C:\Users\ian.prins\source\repos\GridCreator\GridCreator\bin\Debug\net5.0\GridCreator.dll
+C:\Users\ian.prins\source\repos\GridCreator\GridCreator\bin\Debug\net5.0\ref\GridCreator.dll
+C:\Users\ian.prins\source\repos\GridCreator\GridCreator\bin\Debug\net5.0\GridCreator.pdb
+C:\Users\ian.prins\source\repos\GridCreator\GridCreator\obj\Debug\net5.0\GridCreator.csproj.AssemblyReference.cache
+C:\Users\ian.prins\source\repos\GridCreator\GridCreator\obj\Debug\net5.0\GridCreator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ian.prins\source\repos\GridCreator\GridCreator\obj\Debug\net5.0\GridCreator.AssemblyInfoInputs.cache
+C:\Users\ian.prins\source\repos\GridCreator\GridCreator\obj\Debug\net5.0\GridCreator.AssemblyInfo.cs
+C:\Users\ian.prins\source\repos\GridCreator\GridCreator\obj\Debug\net5.0\GridCreator.csproj.CoreCompileInputs.cache
+C:\Users\ian.prins\source\repos\GridCreator\GridCreator\obj\Debug\net5.0\GridCreator.dll
+C:\Users\ian.prins\source\repos\GridCreator\GridCreator\obj\Debug\net5.0\ref\GridCreator.dll
+C:\Users\ian.prins\source\repos\GridCreator\GridCreator\obj\Debug\net5.0\GridCreator.pdb
+C:\Users\ian.prins\source\repos\GridCreator\GridCreator\obj\Debug\net5.0\GridCreator.genruntimeconfig.cache
